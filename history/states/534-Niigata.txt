@@ -20,10 +20,10 @@ state={
 	}
 
 	provinces={
-		998 1067 1117 7102 9952 10032 11930 11989 12007 13435 13437 13444 13447 13450 13451 13452 13456 13457 13459 13462 
+		1117 9952 11930 13459 13462 
 	}
-	manpower=1933000
+	manpower=998200
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }

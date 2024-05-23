@@ -13401,7 +13401,7 @@
 13400;254;199;116;land;false;hills;6
 13401;22;124;79;land;false;hills;6
 13402;241;198;242;land;true;hills;6
-13403;197;174;148;land;true;hills;6
+13403;197;174;148;land;false;hills;6
 13404;230;60;39;land;true;urban;6
 13405;19;193;99;land;false;hills;6
 13406;10;193;13;land;true;hills;6
@@ -13520,3 +13520,4 @@
 13519;237;114;87;land;false;mountain;6
 13520;71;148;34;land;false;mountain;6
 13521;17;158;221;land;false;forest;6
+13522;93;158;241;land;false;urban;6

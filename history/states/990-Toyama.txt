@@ -1,0 +1,15 @@
+state={
+	id=990
+	name="STATE_990"
+	provinces={
+		13447 13450 13451 13452 
+	}
+	history={
+		owner = JAP
+		add_core_of = JAP 
+	}
+	manpower=799000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

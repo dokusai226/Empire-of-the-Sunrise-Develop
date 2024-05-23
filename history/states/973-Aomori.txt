@@ -1,0 +1,15 @@
+state={
+	id=973
+	name="STATE_973"
+	provinces={
+		6873 6994 9859 
+	}
+	history={
+		owner = JAP
+		add_core_of = JAP 
+	}
+	manpower=967000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

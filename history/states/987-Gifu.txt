@@ -1,0 +1,15 @@
+state={
+	id=987
+	name="STATE_987"
+	provinces={
+		4172 7187 7217 13427 13428 13436 
+	}
+	history={
+		owner = JAP
+		add_core_of = JAP 
+	}
+	manpower=1226000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}
