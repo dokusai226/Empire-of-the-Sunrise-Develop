@@ -1,0 +1,15 @@
+state={
+	id=1024
+	name="STATE_1024"
+	provinces={
+		4004 9981 11958 13497 13498 13499 
+	}
+	history={
+		owner = JAP
+		add_core_of = KOR
+	}
+	manpower=519885
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

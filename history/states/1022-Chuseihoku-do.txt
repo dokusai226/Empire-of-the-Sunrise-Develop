@@ -1,0 +1,15 @@
+state={
+	id=1022
+	name="STATE_1022"
+	provinces={
+		1100 9936 13482 13487 
+	}
+	history={
+		owner = JAP
+		add_core_of = KOR
+	}
+	manpower=907055
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

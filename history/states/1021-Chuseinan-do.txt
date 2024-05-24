@@ -1,0 +1,15 @@
+state={
+	id=1021
+	name="STATE_1021"
+	provinces={
+		7175 7204 11992 13483 13485 
+	}
+	history={
+		owner = JAP
+		add_core_of = KOR
+	}
+	manpower=1482963
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

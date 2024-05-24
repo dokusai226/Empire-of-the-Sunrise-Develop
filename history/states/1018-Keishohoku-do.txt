@@ -1,0 +1,15 @@
+state={
+	id=1018
+	name="STATE_1018"
+	provinces={
+		1081 4086 4103 7121 10115 11912 12089 13480 13481 13484 
+	}
+	history={
+		owner = JAP
+		add_core_of = KOR
+	}
+	manpower=2454275
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}
