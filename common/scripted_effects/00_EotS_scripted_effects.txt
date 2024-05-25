@@ -1,0 +1,74 @@
+d_change = {
+	random_list = {
+		1={
+			recruit_character = JAP_keisuke_okada
+			promote_character = {
+				character = JAP_keisuke_okada
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_kouki_hirota
+			promote_character = {
+				character = JAP_kouki_hirota
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_senjuro_hayashi
+			promote_character = {
+				character = JAP_senjuro_hayashi
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_humimaro_konoe
+			promote_character = {
+				character = JAP_humimaro_konoe
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_kiichiro_hiranuma
+			promote_character = {
+				character = JAP_kiichiro_hiranuma
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_nobuyuki_abe
+			promote_character = {
+				character = JAP_nobuyuki_abe
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_mitsumasa_yonai
+			promote_character = {
+				character = JAP_mitsumasa_yonai
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_hideki_tojo
+			promote_character = {
+				character = JAP_hideki_tojo
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_kuniaki_koiso
+			promote_character = {
+				character = JAP_kuniaki_koiso
+				ideology = conservatism
+			}
+		}
+		1={
+			recruit_character = JAP_kantaro_suzuki
+			promote_character = {
+				character = JAP_kantaro_suzuki
+				ideology = conservatism
+			}
+		}
+	}
+}

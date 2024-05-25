@@ -1,0 +1,42 @@
+spriteTypes = {
+	spriteType = {
+		name = GFX_JAP_keisuke_okada
+		textureFile = "gfx/leaders/JAP/JAP_keisuke_okada.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_kouki_hirota
+		textureFile = "gfx/leaders/JAP/JAP_kouki_hirota.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_senjuro_hayashi
+		textureFile = "gfx/leaders/JAP/JAP_senjuro_hayashi.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_humimaro_konoe
+		textureFile = "gfx/leaders/JAP/JAP_humimaro_konoe.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_kiichiro_hiranuma
+		textureFile = "gfx/leaders/JAP/JAP_kiichiro_hiranuma.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_nobuyuki_abe
+		textureFile = "gfx/leaders/JAP/JAP_nobuyuki_abe.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_mitsumasa_yonai
+		textureFile = "gfx/leaders/JAP/JAP_mitsumasa_yonai.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_hideki_tojo
+		textureFile = "gfx/leaders/JAP/JAP_hideki_tojo.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_kuniaki_koiso
+		textureFile = "gfx/leaders/JAP/JAP_kuniaki_koiso.dds"
+	}
+	spriteType = {
+		name = GFX_JAP_kantaro_suzuki
+		textureFile = "gfx/leaders/JAP/JAP_kantaro_suzuki.dds"
+	}
+}

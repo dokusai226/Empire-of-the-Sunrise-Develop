@@ -45,7 +45,7 @@ focus_tree = {
 		id = ARG_roberto_maria_ortiz
 		icon = GFX_focus_ARG_roberto_maria_ortiz
 		#prerequisite = { focus = ARG_preparation_for_the_elections }
-		x = 13
+		x = "1934.3.26"
 		y = 0
 		#relative_position_id = ARG_preparation_for_the_elections
 		cost = 10
