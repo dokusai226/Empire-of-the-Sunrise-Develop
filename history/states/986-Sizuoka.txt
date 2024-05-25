@@ -7,6 +7,9 @@ state={
 	history={
 		owner = JAP
 		add_core_of = JAP 
+		victory_points = {
+			7087 3 
+		}
 	}
 	manpower=1940000
 	buildings_max_level_factor=1.000

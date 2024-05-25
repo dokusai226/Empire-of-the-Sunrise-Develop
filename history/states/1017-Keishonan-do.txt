@@ -7,6 +7,16 @@ state={
 	history={
 		owner = JAP
 		add_core_of = KOR
+		buildings={
+
+			4056 = {
+				naval_base = 3
+
+			}
+		}
+		victory_points = {
+			4056 1 
+		}
 	}
 	manpower=2214406
 	buildings_max_level_factor=1.000

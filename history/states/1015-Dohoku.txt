@@ -7,6 +7,9 @@ state={
 	history={
 		owner = JAP
 		add_core_of = JAP 
+		victory_points = {
+			12421 5 
+		}
 	}
 	manpower=613600
 	state_category = rural
