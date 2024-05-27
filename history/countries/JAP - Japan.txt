@@ -8,14 +8,7 @@ set_war_support = 0.8
 set_research_slots = 4
 set_fuel_ratio = 1.0
 add_ideas = {
-	state_shintoism
-	limited_exports
-	limited_conscription
-	partial_economic_mobilisation
-
-	JAP_zaibatsus
-	JAP_duplicate_research_efforts
-	JAP_militarism
+	JAP_hirohito
 }
 
 609 = {
@@ -74,12 +67,6 @@ add_ideas = {
 	set_garrison_strength = 1.0
 }
 
-if = {
-	limit = { has_dlc = "Waking the Tiger" }
-	add_ideas = {
-		JAP_interservice_rivalry_balanced		
-	}
-}
 if = {
 	limit = {
 		has_dlc = "Man the Guns"
@@ -426,14 +413,46 @@ if = {
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 100
+	neutrality = 15
+	democratic = 65
+	fascism = 10
+	communism = 10
 }
+set_party_name = {
+	ideology = neutrality
+	long_name = JAP_neutrality_party
+	name = JAP_neutrality_party
+}
+set_party_name = {
+	ideology = democratic
+	long_name = JAP_democratic_party_minseito
+	name = JAP_democratic_party_minseito
+}
+set_party_name = {
+	ideology = fascism
+	long_name = JAP_fascism_party_showakai
+	name = JAP_fascism_party_showakai
+}
+set_party_name = {
+	ideology = communism
+	long_name = JAP_socialist_masses_party
+	name = JAP_socialist_masses_party
+}
+recruit_character = JAP_keisuke_okada
+recruit_character = JAP_kouki_hirota
+recruit_character = JAP_senjuro_hayashi
+recruit_character = JAP_humimaro_konoe
+recruit_character = JAP_kiichiro_hiranuma
+recruit_character = JAP_nobuyuki_abe
+recruit_character = JAP_mitsumasa_yonai
+recruit_character = JAP_hideki_tojo
+recruit_character = JAP_kantaro_suzuki
 
 recruit_character = JAP_tetsu_katayama
 recruit_character = JAP_kyuichi_tokuda
@@ -490,13 +509,11 @@ recruit_character = JAP_shigetaro_shimada
 recruit_character = JAP_yoshio_nishina
 recruit_character = JAP_hideo_itokawa
 recruit_character = JAP_kanin_kotohito
-recruit_character = JAP_hideki_tojo
 recruit_character = JAP_matome_ugaki
 recruit_character = JAP_nishizo_tsukahara
 recruit_character = JAP_hajime_sugiyama
 recruit_character = JAP_chuichi_nagumo
 recruit_character = JAP_hino_kumazo
-recruit_character = JAP_mitsumasa_yonai
 recruit_character = JAP_takuo_godo
 recruit_character = JAP_chiune_sugihara
 recruit_character = JAP_kingoro_hashimoto
