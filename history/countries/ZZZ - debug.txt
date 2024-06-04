@@ -1,0 +1,37 @@
+﻿capital = 1
+
+JAP = {
+	set_cosmetic_tag = GREATJAPAN_empire
+	set_autonomy = {	target = TWN	autonomous_state = imperial_overseas_territory	}
+	set_autonomy = {	target = KOR	autonomous_state = imperial_overseas_territory	}
+	set_autonomy = {	target = DLI	autonomous_state = leased_territory	}
+	set_autonomy = {	target = FSM	autonomous_state = mandated_territory	}
+	set_autonomy = {	target = MAN	autonomous_state = imperial_protected_state	}
+	set_autonomy = {	target = EQH	autonomous_state = imperial_protected_government	}
+	set_autonomy = {	target = EHB	autonomous_state = imperial_protected_government	}
+}
+
+TWN = {	set_cosmetic_tag = TWN_JAP	}
+KOR = {	set_cosmetic_tag = KOR_JAP	}
+DLI = {	set_cosmetic_tag = DLI_JAP	}
+FSM = {	set_cosmetic_tag = FSM_JAP	}
+
+#debug
+add_to_array = {	JAP.allowed_imperial_subjects = BRM	}
+add_to_array = {	JAP.allowed_imperial_subjects = CAM	}
+add_to_array = {	JAP.allowed_imperial_subjects = CHI	}
+add_to_array = {	JAP.allowed_imperial_subjects = INS	}
+add_to_array = {	JAP.allowed_imperial_subjects = KOR	}
+add_to_array = {	JAP.allowed_imperial_subjects = LAO	}
+add_to_array = {	JAP.allowed_imperial_subjects = MAN	}
+add_to_array = {	JAP.allowed_imperial_subjects = MEN	}
+add_to_array = {	JAP.allowed_imperial_subjects = PHI	}
+add_to_array = {	JAP.allowed_imperial_subjects = SIA	}
+add_to_array = {	JAP.allowed_imperial_subjects = VIN	}
+add_to_array = {	JAP.allowed_imperial_subjects = AST	}
+add_to_array = {	JAP.allowed_imperial_subjects = FSM	}
+add_to_array = {	JAP.allowed_imperial_subjects = HAW	}
+add_to_array = {	JAP.allowed_imperial_subjects = NZL	}
+add_to_array = {	JAP.allowed_imperial_subjects = DLI	}
+add_to_array = {	JAP.allowed_imperial_subjects = EHB	}
+add_to_array = {	JAP.allowed_imperial_subjects = TWN	}

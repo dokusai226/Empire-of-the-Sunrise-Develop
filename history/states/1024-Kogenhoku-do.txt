@@ -5,7 +5,7 @@ state={
 		4004 9981 11958 13497 13498 13499 
 	}
 	history={
-		owner = JAP
+		owner = KOR
 		add_core_of = KOR
 	}
 	manpower=519885

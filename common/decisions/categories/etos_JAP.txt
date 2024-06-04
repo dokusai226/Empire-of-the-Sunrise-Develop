@@ -1,0 +1,8 @@
+debug_decisions_JAP = {
+	icon = generic_research
+	visible = {
+		is_debug = yes
+		is_ai = no
+		tag = JAP
+	}
+}

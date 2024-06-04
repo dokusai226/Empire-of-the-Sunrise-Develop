@@ -1,0 +1,22 @@
+#Asia
+DLI	= "countries/Asia.txt"	#大連
+EHB	= "countries/Asia.txt"	#冀東
+EQH	= "countries/Asia.txt"	#察東
+EZO	= "countries/Asia.txt"	#蝦夷
+KFT	= "countries/Asia.txt"	#樺太
+SGH	= "countries/Asia.txt"	#上海
+TWN	= "countries/Asia.txt"	#台湾
+
+#Middle East
+
+#Commonwealth
+
+#Western Europe
+GRN	= "countries/Western Europe.txt"	#グリーンランド
+JAN	= "countries/Western Europe.txt"	#ヤンマイエン
+
+#Eastern Europe
+
+#Africa
+
+#South America

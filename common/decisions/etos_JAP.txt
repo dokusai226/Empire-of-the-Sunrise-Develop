@@ -1,0 +1,18 @@
+debug_decisions_JAP = {
+	set_imperial_protected_state_debug = {
+		priority = -1
+		allowed = {	always = yes	}
+		
+		visible = {
+			is_ai = no
+			is_debug = yes
+		}
+		complete_effect = {
+			for_each_loop = {
+				array = JAP.allowed_imperial_subjects
+				value = x
+				set_autonomy = {	target = x	autonomous_state = imperial_protected_state	}
+			}
+		}
+	}
+}

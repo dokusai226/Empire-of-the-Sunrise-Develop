@@ -5,7 +5,7 @@ state={
 		1054 4056 10085 12060 13475 13476 13477 
 	}
 	history={
-		owner = JAP
+		owner = KOR
 		add_core_of = KOR
 		buildings={
 
