@@ -61,8 +61,8 @@
  LAO_imperial_overseas_territory_DEF: "日本領羅宇"
  LAO_imperial_overseas_territory_ADJ: "羅宇"
  
- MAN_imperial_protected_state: "大満州帝国"
- MAN_imperial_protected_state_DEF: "大満州帝国"
+ MAN_imperial_protected_state: "満州国"
+ MAN_imperial_protected_state_DEF: "満州国"
  MAN_imperial_protected_state_ADJ: "満州"
  MAN_imperial_protected_government: "満州自治政府"
  MAN_imperial_protected_government_DEF: "満州自治政府"
