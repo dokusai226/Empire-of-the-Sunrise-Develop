@@ -2,11 +2,13 @@ state={
 	id=970
 	name="STATE_970"
 	provinces={
-		13368 
+		13299 13300 
 	}
 	history={
-		owner = JAP
-		add_core_of = JAP 
+		owner = ARG
+		add_core_of = ARG
+		add_claim_by = CHL
+		add_core_of = WLA
 	}
 	manpower=7711
 	buildings_max_level_factor=1.000
