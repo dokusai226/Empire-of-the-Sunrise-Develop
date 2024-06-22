@@ -1,1 +1,12 @@
 ﻿capital = 524
+set_cosmetic_tag = TWN_JAP
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_government-general
+	long_name = PARTY_government-general_of_taiwan_long
+}
+set_popularities = {
+	neutrality = 100
+}

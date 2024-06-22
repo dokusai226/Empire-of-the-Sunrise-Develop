@@ -1,0 +1,12 @@
+﻿capital = 752
+set_cosmetic_tag = XIK_provincial_establishment_commission
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_xikang_provincial_establishment_commission
+	long_name = PARTY_xikang_provincial_establishment_commission_long
+}
+set_popularities = {
+	neutrality = 100
+}

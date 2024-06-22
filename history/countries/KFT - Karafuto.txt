@@ -1,1 +1,12 @@
 ﻿capital = 537
+set_cosmetic_tag = KFT_JAP
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_karafuto_agency
+	long_name = PARTY_karafuto_agency_long
+}
+set_popularities = {
+	neutrality = 100
+}

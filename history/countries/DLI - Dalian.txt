@@ -1,1 +1,12 @@
 ﻿capital = 745
+set_cosmetic_tag = DLI_JAP
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_kwantung_bureau
+	long_name = PARTY_kwantung_bureau_long
+}
+set_popularities = {
+	neutrality = 100
+}

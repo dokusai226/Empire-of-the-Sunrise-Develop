@@ -932,6 +932,10 @@
  GDL_DEF:0 "グアドループ"
  GDL_ADJ:0 "グアドループ"
  
+ GRN:0 "グリーンランド"
+ GRN_DEF:0 "グリーンランド"
+ GRN_ADJ:0 "グリーンランド"
+ 
  GUA:0 "グアテマラ"
  GUA_DEF:0 "グアテマラ"
  GUA_ADJ:0 "グアテマラ"
@@ -967,6 +971,10 @@
  JAM:0 "ジャマイカ"
  JAM_DEF:0 "ジャマイカ"
  JAM_ADJ:0 "ジャマイカ"
+ 
+ JAN:0 "ヤンマイエン"
+ JAN_DEF:0 "ヤンマイエン"
+ JAN_ADJ:0 "ヤンマイエン"
  
  MAY:0 "マヤ"
  MAY_DEF:0 "マヤ"
@@ -1112,28 +1120,80 @@
  EZO_DEF:0 "蝦夷"
  EZO_ADJ:0 "蝦夷"
  
+ GAN:0 "甘粛"
+ GAN_DEF:0 "甘粛"
+ GAN_ADJ:0 "甘粛"
+ 
+ GND:0 "広東"
+ GND_DEF:0 "広東"
+ GND_ADJ:0 "広東"
+ 
+ HEB:0 "河北"
+ HEB_DEF:0 "河北"
+ HEB_ADJ:0 "河北"
+ 
+ HKG:0 "香港"
+ HKG_DEF:0 "香港"
+ HKG_ADJ:0 "香港"
+ 
+ IDC:0 "インドシナ"
+ IDC_DEF:0 "インドシナ"
+ IDC_ADJ:0 "インドシナ"
+ 
  KFT:0 "樺太"
  KFT_DEF:0 "樺太"
  KFT_ADJ:0 "樺太"
+ 
+ KUM:0 "クムル"
+ KUM_DEF:0 "クムル"
+ KUM_ADJ:0 "クムル"
+ 
+ MCA:0 "澳門"
+ MCA_DEF:0 "澳門"
+ MCA_ADJ:0 "澳門"
+ 
+ NIG:0 "寧夏"
+ NIG_DEF:0 "寧夏"
+ NIG_ADJ:0 "寧夏"
+ 
+ QIG:0 "青海"
+ QIG_DEF:0 "青海"
+ QIG_ADJ:0 "青海"
+ 
+ SCH:0 "四川"
+ SCH_DEF:0 "四川"
+ SCH_ADJ:0 "四川"
  
  SGH:0 "上海"
  SGH_DEF:0 "上海"
  SGH_ADJ:0 "上海"
  
+ SHD:0 "山東"
+ SHD_DEF:0 "山東"
+ SHD_ADJ:0 "山東"
+ 
+ SQH:0 "察南"
+ SQH_DEF:0 "察南"
+ SQH_ADJ:0 "察南"
+ 
+ SUY:0 "綏遠"
+ SUY_DEF:0 "綏遠"
+ SUY_ADJ:0 "綏遠"
+ 
+ TNG:0 "タンガニスタン"
+ TNG_DEF:0 "タンガニスタン"
+ TNG_ADJ:0 "タンガニスタン"
+ 
  TWN:0 "台湾"
  TWN_DEF:0 "台湾"
  TWN_ADJ:0 "台湾"
  
+ XIK:0 "西康"
+ XIK_DEF:0 "西康"
+ XIK_ADJ:0 "西康"
+ 
 #ヨーロッパ
 #アフリカ
 #新大陸
- GRN:0 "グリーンランド"
- GRN_DEF:0 "グリーンランド"
- GRN_ADJ:0 "グリーンランド"
- 
- JAN:0 "ヤンマイエン"
- JAN_DEF:0 "ヤンマイエン"
- JAN_ADJ:0 "ヤンマイエン"
- 
 #大洋州
 #アメリカ諸州

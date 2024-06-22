@@ -1,1 +1,12 @@
 ﻿capital = 612
+set_cosmetic_tag = EQH_special_autonomous_region
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_duolun_county_office
+	long_name = PARTY_duolun_county_office_long
+}
+set_popularities = {
+	neutrality = 100
+}

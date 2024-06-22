@@ -1,1 +1,12 @@
 ﻿capital = 609
+set_cosmetic_tag = EHB_anti-communist_autonomous_government
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_east_hebei_anti-communist_autonomous_government
+	long_name = PARTY_east_hebei_anti-communist_autonomous_government_long
+}
+set_popularities = {
+	neutrality = 100
+}

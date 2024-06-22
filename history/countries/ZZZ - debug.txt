@@ -1,8 +1,9 @@
 ﻿capital = 1
 
-JAP = {
+JAP = {	#大日本帝国
 	set_cosmetic_tag = GREATJAPAN_empire
 	set_autonomy = {	target = TWN	autonomous_state = imperial_overseas_territory	}
+	set_autonomy = {	target = KFT	autonomous_state = imperial_overseas_territory	}
 	set_autonomy = {	target = KOR	autonomous_state = imperial_overseas_territory	}
 	set_autonomy = {	target = DLI	autonomous_state = leased_territory	}
 	set_autonomy = {	target = FSM	autonomous_state = mandated_territory	}
@@ -11,10 +12,42 @@ JAP = {
 	set_autonomy = {	target = EHB	autonomous_state = imperial_protected_government	}
 }
 
-TWN = {	set_cosmetic_tag = TWN_JAP	}
-KOR = {	set_cosmetic_tag = KOR_JAP	}
-DLI = {	set_cosmetic_tag = DLI_JAP	}
+ENG = {	#大英帝国
+	set_autonomy = {	target = HKG	autonomous_state = colony	}
+}
+
+FRA = {	#フランス植民地帝国
+	set_autonomy = {	target = IDC	autonomous_state = colonies_federation	}
+}
+
+HOL = {	#オランダ植民地帝国
+	set_autonomy = {	target = INS	autonomous_state = colony	}
+}
+
+POR = {	#ポルトガル植民地帝国
+	set_autonomy = {	target = MCA	autonomous_state = colony	}
+}
+
+USA = {	#アメリカ植民地帝国
+	set_autonomy = {	target = PHI	autonomous_state = dominion	}
+}
+
 FSM = {	set_cosmetic_tag = FSM_JAP	}
+
+CHI = {	set_cosmetic_tag = CHI_peopledom	}
+SHX = {	set_cosmetic_tag = SHX_military_clique_CHI_peopledom	}
+XSM = {	set_cosmetic_tag = XSM_bandit_suppression_headquarters	}
+YUN = {	set_cosmetic_tag = YUN_military_clique_CHI_peopledom	}
+GXC = {	set_cosmetic_tag = NEWGUANGXI_military_clique_CHI_peopledom	}
+SIK = {	set_cosmetic_tag = SIK_military_clique	}
+TIB = {	set_cosmetic_tag = TIB_kingdom	}
+MON = {	set_cosmetic_tag = MON_peoples_republic	}
+TAN = {	set_cosmetic_tag = TAN_peoples_republic	}
+MEN = {	set_cosmetic_tag = MENGGU_local_autonomy_political_affairs_committee	}
+PRC = {	set_cosmetic_tag = CHI_soviet_peoples_republic	}
+
+PHI = {	set_cosmetic_tag = PHI_commonwealth	}
+INS = {	set_cosmetic_tag = COUTRY_HOL	}
 
 #debug
 add_to_array = {	JAP.allowed_imperial_subjects = BRM	}

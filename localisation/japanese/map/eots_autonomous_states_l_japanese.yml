@@ -1,4 +1,9 @@
 ﻿l_japanese:
+ dominion: "自治領"
+ colony: "植民地"
+ colonies_federation: "植民地連邦"
+ overseas_territory: "海外領土"
+ 
  imperial_protected_state: "帝国保護国"
  imperial_protected_government: "帝国保護政府"
  imperial_overseas_territory: "外地"

@@ -1,0 +1,12 @@
+﻿capital = 729
+set_cosmetic_tag = MCA_POR_republic
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_POR_government_of_macao
+	long_name = PARTY_POR_government_of_macao_long
+}
+set_popularities = {
+	neutrality = 100
+}

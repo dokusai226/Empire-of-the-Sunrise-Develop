@@ -3,17 +3,30 @@ DLI	= "countries/Asia.txt"	#大連
 EHB	= "countries/Asia.txt"	#冀東
 EQH	= "countries/Asia.txt"	#察東
 EZO	= "countries/Asia.txt"	#蝦夷
+GAN	= "countries/Asia.txt"	#甘粛
+GND	= "countries/Asia.txt"	#広東
+HEB	= "countries/Asia.txt"	#河北
+HKG	= "countries/Asia.txt"	#香港
+IDC	= "countries/Asia.txt"	#インドシナ
 KFT	= "countries/Asia.txt"	#樺太
+KUM	= "countries/Asia.txt"	#クムル
+MCA	= "countries/Asia.txt"	#澳門
+NIG	= "countries/Asia.txt"	#寧夏
+QIG	= "countries/Asia.txt"	#青海
+SCH	= "countries/Asia.txt"	#四川
 SGH	= "countries/Asia.txt"	#上海
+SHD	= "countries/Asia.txt"	#山東
+SQH	= "countries/Asia.txt"	#察南
+SUY	= "countries/Asia.txt"	#綏遠
+TNG	= "countries/Asia.txt"	#タンガニスタン
 TWN	= "countries/Asia.txt"	#台湾
+XIK	= "countries/Asia.txt"	#西康
 
 #Middle East
 
 #Commonwealth
 
 #Western Europe
-GRN	= "countries/Western Europe.txt"	#グリーンランド
-JAN	= "countries/Western Europe.txt"	#ヤンマイエン
 
 #Eastern Europe
 

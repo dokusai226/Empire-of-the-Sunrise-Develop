@@ -1,0 +1,10 @@
+﻿capital = 760
+set_cosmetic_tag = KUM_khanate
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 100
+}

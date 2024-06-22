@@ -12,6 +12,22 @@
  
  
  
+ CHI_peopledom:0 "中華民国"
+ CHI_peopledom_DEF:0 "中華民国"
+ CHI_peopledom_guangzhou_national_government:0 "中華民国広州国民政府"
+ CHI_peopledom_guangzhou_national_government_DEF:0 "中華民国広州国民政府"
+ CHI_peopledom_provisional_government:0 "中華民国臨時政府"
+ CHI_peopledom_provisional_government_DEF:0 "中華民国臨時政府"
+ CHI_peopledom_reformed_government:0 "中華民国維新政府"
+ CHI_peopledom_reformed_government_DEF:0 "中華民国維新政府"
+ CHI_soviet_peoples_republic:0 "中華・ソビエト人民共和国"
+ CHI_soviet_peoples_republic_DEF:0 "中華・ソビエト人民共和国"
+ 
+ 
+ 
+ 
+ GXC_military_clique:0 "広西軍閥"
+ GXC_military_clique_DEF:0 "広西軍閥"
  
  
  
@@ -28,6 +44,13 @@
  
  
  
+ MAN_state:0 "満州国"
+ MAN_state_DEF:0 "満州国"
+ 
+ 
+ 
+ MON_peoples_republic:0 "モンゴル人民共和国"
+ MON_peoples_republic_DEF:0 "モンゴル人民共和国"
  
  
  
@@ -40,6 +63,24 @@
  
  
  
+ SHX_military_clique:0 "山西軍閥"
+ SHX_military_clique_DEF:0 "山西軍閥"
+ 
+ 
+ SIK_ma_military_clique:0 "新疆馬軍閥"
+ SIK_ma_military_clique_DEF:0 "新疆馬軍閥"
+ SIK_military_clique:0 "新疆軍閥"
+ SIK_military_clique_DEF:0 "新疆軍閥"
+ 
+ 
+ 
+ 
+ TAN_peoples_republic:0 "トゥヴァ人民共和国"
+ TAN_peoples_republic_DEF:0 "トゥヴァ人民共和国"
+ 
+ 
+ TIB_kingdom:0 "チベット王国"
+ TIB_kingdom_DEF:0 "チベット王国"
  
  
  
@@ -47,25 +88,14 @@
  
  
  
+ XSM_bandit_suppression_headquarters:0 "西北剿匪総司令部"
+ XSM_bandit_suppression_headquarters_DEF:0 "西北剿匪総司令部"
  
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ YUN_military_clique:0 "雲南軍閥"
+ YUN_military_clique_DEF:0 "雲南軍閥"
  
 #ヨーロッパ
  
@@ -216,6 +246,8 @@
  
  
 #新大陸
+ 
+ 
  
  
  
@@ -281,16 +313,49 @@
 ##追加国家
 #アジア
  
+ EHB_anti-communist_autonomous_government:0 "冀東防共自治政府"
+ EHB_anti-communist_autonomous_government_DEF:0 "冀東防共自治政府"
+ 
+ EQH_special_autonomous_region:0 "察東特別自治区"
+ EQH_special_autonomous_region_DEF:0 "察東特別自治区"
+ 
+ 
+ 
+ GND_military_clique:0 "広東軍閥"
+ GND_military_clique_DEF:0 "広東軍閥"
  
  
  
  
  
+ KUM_khanate:0 "クムル汗国"
+ KUM_khanate_DEF:0 "クムル汗国"
+ 
+ 
+ NIG_ma_military_clique:0 "寧夏馬軍閥"
+ NIG_ma_military_clique_DEF:0 "寧夏馬軍閥"
+ 
+ QIG_ma_military_clique:0 "青海馬軍閥"
+ QIG_ma_military_clique_DEF:0 "青海馬軍閥"
+ 
+ SCH_military_clique:0 "四川軍閥"
+ SCH_military_clique_DEF:0 "四川軍閥"
+ 
+ 
+ SHD_military_clique:0 "山東軍閥"
+ SHD_military_clique_DEF:0 "山東軍閥"
+ 
+ SQH_autonomous_government:0 "察南自治政府"
+ SQH_autonomous_government_DEF:0 "察南自治政府"
+ 
+ 
+ 
+ 
+ XIK_provincial_establishment_commission:0 "西康建省委員会"
+ XIK_provincial_establishment_commission_DEF:0 "西康建省委員会"
  
 #ヨーロッパ
 #アフリカ
 #新大陸
- 
- 
 #大洋州
 #アメリカ諸州

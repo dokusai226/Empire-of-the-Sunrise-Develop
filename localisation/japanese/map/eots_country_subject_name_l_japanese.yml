@@ -1,0 +1,19 @@
+﻿l_japanese:
+##バニラ
+ INS_colony: "$OVERLORDADJ$領東インド諸島植民地"
+ INS_colony_DEF: "$OVERLORDADJ$領東インド諸島植民地"
+ 
+ PHI_USA_dominion: "フィリピン自治連邦区"
+ PHI_USA_dominion_DEF: "フィリピン自治連邦区"
+ 
+##追加国家
+#アジア
+ HKG_colony: "$OVERLORDADJ$領香港植民地"
+ HKG_colony_DEF: "$OVERLORDADJ$領香港植民地"
+ 
+ IDC_colonies_federation: "$OVERLORDADJ$領インドシナ連合"
+ IDC_colonies_federation_DEF: "$OVERLORDADJ$領インドシナ連合"
+ 
+ MCA_colony: "$OVERLORDADJ$領マカオ植民地"
+ MCA_colony_DEF: "$OVERLORDADJ$領マカオ植民地"
+ 

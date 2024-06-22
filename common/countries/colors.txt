@@ -934,6 +934,10 @@ GDL = {	#グアドループ
 	color = rgb { 131 196 152 }
 	color_ui = rgb { 131 196 152 }
 }
+GRN = {	#グリーンランド
+	color = rgb { 240 180 192 }
+	color_ui = rgb { 240 180 192 }
+}
 GUA = {	#グアテマラ
 	color = rgb { 72 49 112 }
 	color_ui = rgb { 72 49 112 }
@@ -969,6 +973,10 @@ ITZ = {	#イッツァ
 JAM = {	#ジャマイカ
 	color = rgb { 180 220 0 }
 	color_ui = rgb { 180 220 0 }
+}
+JAN = {	#ヤンマイエン
+	color = rgb { 35 63 143 }
+	color_ui = rgb { 35 63 143 }
 }
 MAY = {	#マヤ
 	color = rgb { 255 80 80 }
@@ -1117,17 +1125,77 @@ EZO = {	#蝦夷
 	color = rgb { 25 122 84 }
 	color_ui = rgb { 25 122 84 }
 }
+GAN = {	#甘粛
+	color = rgb { 153 116 53 }
+	color_ui = rgb { 153 116 53 }
+}
+GND = {	#広東
+	color = rgb { 153 108 51 }
+	color_ui = rgb { 153 108 51 }
+}
+HEB = {	#河北
+	color = rgb { 93 181 227 }
+	color_ui = rgb { 93 181 227 }
+}
+HKG = {	#香港
+	color = rgb { 15 117 98 }
+	color_ui = rgb { 15 117 98 }
+}
+IDC = {	#インドシナ
+	color = rgb { 255 255 0 }
+	color_ui = rgb { 255 255 0 }
+}
 KFT = {	#樺太
 	color = rgb { 71 165 174 }
 	color_ui = rgb { 71 165 174 }
+}
+KUM = {	#クムル
+	color = rgb { 243 244 200 }
+	color_ui = rgb { 243 244 200 }
+}
+MCA = {	#澳門
+	color = rgb { 15 117 98 }
+	color_ui = rgb { 15 117 98 }
+}
+NIG = {	#寧夏
+	color = rgb { 105 69 85 }
+	color_ui = rgb { 105 69 85 }
+}
+QIG = {	#青海
+	color = rgb { 114 71 24 }
+	color_ui = rgb { 114 71 24 }
+}
+SCH = {	#四川
+	color = rgb { 188 155 71 }
+	color_ui = rgb { 188 155 71 }
 }
 SGH = {	#上海
 	color = rgb { 255 213 9 }
 	color_ui = rgb { 255 213 9 }
 }
+SHD = {	#山東
+	color = rgb { 255 150 50 }
+	color_ui = rgb { 255 150 50 }
+}
+SQH = {	#察南
+	color = rgb { 232 148 122 }
+	color_ui = rgb { 232 148 122 }
+}
+SUY = {	#綏遠
+	color = rgb { 197 121 103 }
+	color_ui = rgb { 197 121 103 }
+}
+TNG = {	#タンガニスタン
+	color = rgb { 188 100 67 }
+	color_ui = rgb { 188 100 67 }
+}
 TWN = {	#台湾
 	color = rgb { 0 128 0 }
 	color_ui = rgb { 0 128 0 }
+}
+XIK = {	#西康
+	color = rgb { 84 127 151 }
+	color_ui = rgb { 84 127 151 }
 }
 
 #ヨーロッパ
@@ -1135,14 +1203,6 @@ TWN = {	#台湾
 #アフリカ
 
 #新大陸
-GRN = {	#グリーンランド
-	color = rgb { 240 180 192 }
-	color_ui = rgb { 240 180 192 }
-}
-JAN = {	#ヤンマイエン
-	color = rgb { 35 63 143 }
-	color_ui = rgb { 35 63 143 }
-}
 
 #大洋州
 

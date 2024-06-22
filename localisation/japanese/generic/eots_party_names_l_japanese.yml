@@ -1,0 +1,54 @@
+﻿l_japanese:
+##汎用
+ PARTY_government-general: "総督府"
+ PARTY_political_affairs_committee: "政務委員会"
+ 
+##アジア
+#DLI-大連
+ PARTY_kwantung_bureau: "関東州庁"
+ PARTY_kwantung_bureau_long: "関東州庁"
+ 
+#EHB-冀東
+ PARTY_east_hebei_anti-communist_autonomous_government: "冀東防共自治政府"
+ PARTY_east_hebei_anti-communist_autonomous_government_long: "冀東防共自治政府"
+ 
+#EQH-察東
+ PARTY_duolun_county_office: "県公署"
+ PARTY_duolun_county_office_long: "多倫県公署"
+ 
+#GND-広東
+ PARTY_national_government_west_south_political_affairs_committee_long: "国民政府西南政務委員会"
+ 
+#HEB-
+ PARTY_hebei-chahar_political_affairs_committee_long: "冀察政務委員会"
+ 
+#HKG-香港
+ PARTY_government_of_hong_kong: "香港政庁"
+ PARTY_government_of_hong_kong_long: "香港政庁\n[Government of Hong Kong]"
+ 
+#IDC-インドシナ
+ PARTY_FRA_government-general_of_indochina_long: "インドシナ総督府\n[Gouvernement général de l'Indochine]"
+ PARTY_JAP_government-general_of_indochina_long: "印度支那総督府"
+ 
+#KFT-樺太
+ PARTY_karafuto_agency: "樺太庁"
+ PARTY_karafuto_agency_long: "樺太庁"
+ 
+#KOR-大韓
+ PARTY_government-general_of_korea_long: "朝鮮総督府"
+ 
+#MCA-マカオ
+ PARTY_POR_government_of_macao: "マカオ政庁"
+ PARTY_POR_government_of_macao_long: "マカオ政庁\n[Governo de Macau]"
+ 
+#TWN-台湾
+ PARTY_government-general_of_taiwan_long: "台湾総督府"
+ 
+#XIK-西康
+ PARTY_xikang_provincial_establishment_commission: "建省委員会"
+ PARTY_xikang_provincial_establishment_commission_long: "西康省建省委員会"
+ 
+##大洋州
+#FSM-ミクロネシア
+ PARTY_south_sea_agency: "南洋庁"
+ PARTY_south_sea_agency_long: "南洋庁"

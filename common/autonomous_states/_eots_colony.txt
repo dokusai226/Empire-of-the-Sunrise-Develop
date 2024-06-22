@@ -1,0 +1,92 @@
+autonomy_state = {	#自治領
+	id = dominion
+	
+	use_overlord_color = no
+	min_freedom_level = 0.8
+	manpower_influence = 0.0
+	
+	rule = {}
+	modifier = {}
+	
+	ai_subject_wants_higher = {	factor = 0.0	}
+	ai_overlord_wants_lower = {	factor = 0.0	}
+	ai_overlord_wants_garrison = {	always = no	}
+	
+	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
+	can_lose_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
+	
+	allowed_levels_filter = {
+		dominion
+		colony
+		overseas_territory
+	}
+}
+autonomy_state = {	#植民地
+	id = colony
+	
+	use_overlord_color = yes
+	min_freedom_level = 0.3
+	manpower_influence = 0.0
+	
+	rule = {}
+	modifier = {}
+	
+	ai_subject_wants_higher = {	factor = 0.0	}
+	ai_overlord_wants_lower = {	factor = 0.0	}
+	ai_overlord_wants_garrison = {	always = no	}
+	
+	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
+	can_lose_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
+	
+	allowed_levels_filter = {
+		dominion
+		colony
+		overseas_territory
+	}
+}
+autonomy_state = {	#植民地連邦
+	id = colonies_federation
+	
+	use_overlord_color = yes
+	min_freedom_level = 0.3
+	manpower_influence = 0.0
+	
+	rule = {}
+	modifier = {}
+	
+	ai_subject_wants_higher = {	factor = 0.0	}
+	ai_overlord_wants_lower = {	factor = 0.0	}
+	ai_overlord_wants_garrison = {	always = no	}
+	
+	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
+	can_lose_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
+	
+	allowed_levels_filter = {
+		dominion
+		colonies_federation
+		overseas_territory
+	}
+}
+autonomy_state = {	#海外領土
+	id = overseas_territory
+	
+	use_overlord_color = yes
+	min_freedom_level = 0.1
+	manpower_influence = 1.0
+	
+	rule = {}
+	modifier = {}
+	
+	ai_subject_wants_higher = {	factor = 0.0	}
+	ai_overlord_wants_lower = {	factor = 0.0	}
+	ai_overlord_wants_garrison = {	always = no	}
+	
+	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
+	can_lose_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
+	
+	allowed_levels_filter = {
+		dominion
+		colony
+		overseas_territory
+	}
+}

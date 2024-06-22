@@ -1,0 +1,20 @@
+﻿l_japanese:
+##バニラ
+#アジア
+ SHX_military_clique_CHI_peopledom: "山西軍閥"
+ SHX_military_clique_CHI_peopledom_DEF: "山西軍閥"
+ SHX_military_clique_CHI_peopledom_ADJ: "晋系"
+ 
+ YUN_military_clique_CHI_peopledom: "雲南軍閥"
+ YUN_military_clique_CHI_peopledom_DEF: "雲南軍閥"
+ YUN_military_clique_CHI_peopledom_ADJ: "滇系"
+ 
+##追加国家
+#アジア
+ SCH_military_clique_CHI_peopledom: "四川軍閥"
+ SCH_military_clique_CHI_peopledom_DEF: "四川軍閥"
+ SCH_military_clique_CHI_peopledom_ADJ: "川系"
+ 
+ SHD_military_clique_CHI_peopledom: "山東軍閥"
+ SHD_military_clique_CHI_peopledom_DEF: "山東軍閥"
+ SHD_military_clique_CHI_peopledom_ADJ: "魯系"

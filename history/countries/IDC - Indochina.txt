@@ -1,0 +1,12 @@
+﻿capital = 671
+set_cosmetic_tag = IDC_FRA
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_government-general
+	long_name = PARTY_FRA_government-general_of_indochina_long
+}
+set_popularities = {
+	neutrality = 100
+}

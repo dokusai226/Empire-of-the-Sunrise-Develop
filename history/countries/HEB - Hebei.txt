@@ -1,0 +1,12 @@
+﻿capital = 608
+set_cosmetic_tag = HEB-QAH_political_affairs_committee
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_political_affairs_committee
+	long_name = PARTY_hebei-chahar_political_affairs_committee_long
+}
+set_popularities = {
+	neutrality = 100
+}

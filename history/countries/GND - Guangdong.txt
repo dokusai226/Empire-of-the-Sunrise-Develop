@@ -1,0 +1,12 @@
+﻿capital = 593
+set_cosmetic_tag = CHI_peopledom_guangzhou_national_government
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_political_affairs_committee
+	long_name = PARTY_national_government_west_south_political_affairs_committee_long
+}
+set_popularities = {
+	neutrality = 100
+}

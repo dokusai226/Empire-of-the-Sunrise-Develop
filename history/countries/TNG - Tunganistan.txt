@@ -1,0 +1,10 @@
+﻿capital = 287
+set_cosmetic_tag = SIK_ma_military_clique
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 100
+}

@@ -1,0 +1,10 @@
+﻿capital = 597
+set_cosmetic_tag = SHD_military_clique_CHI_peopledom
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 100
+}

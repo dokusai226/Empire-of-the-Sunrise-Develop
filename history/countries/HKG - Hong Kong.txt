@@ -1,0 +1,12 @@
+﻿capital = 326
+set_cosmetic_tag = HKG_GBRandIREbyENG
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+	name = PARTY_government_of_hong_kong
+	long_name = PARTY_government_of_hong_kong_long
+}
+set_popularities = {
+	neutrality = 100
+}
