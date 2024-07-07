@@ -1472,7 +1472,7 @@ characters={
 		}
 	}
 
-	### POLITICAL ADVISORS ###
+	### 政治顧問/POLITICAL ADVISORS ###
 
 	JAP_sanzo_nosaka={
 		name=JAP_sanzo_nosaka
@@ -1509,49 +1509,6 @@ characters={
 			do_effect = {
 				NOT = {
 					has_government = communism 
-				}
-			}
-			ai_will_do = {
-				factor = 0.000
-			}
-		}
-	}
-
-	JAP_kijuro_shidehara={
-		name=JAP_kijuro_shidehara
-		portraits={
-			army={
-				small="GFX_idea_kijuro_shidehara"
-			}
-		}
-		advisor={
-			slot = political_advisor
-			idea_token = kijuro_shidehara
-			available = {
-				if = {
-					limit = {
-						has_dlc = "Waking the Tiger"
-					}
-					has_completed_focus = JAP_strengthen_civilian_government 
-				}
-				if = {
-					limit = {
-						has_dlc = "Man the Guns"
-					}
-					NOT = {
-						has_autonomy_state = autonomy_supervised_state
-					}
-				}
-			}
-			allowed = {
-				original_tag = JAP
-			}
-			traits = {
-				democratic_reformer 
-			}
-			do_effect = {
-				NOT = {
-					has_government = democratic 
 				}
 			}
 			ai_will_do = {
@@ -1597,24 +1554,33 @@ characters={
 		}		
 	}
 
-	JAP_mitsumasa_yonai={
-		name=JAP_mitsumasa_yonai
+	JAP_kijuro_shidehara={
+		name=JAP_kijuro_shidehara
 		portraits={
 			army={
-				small="GFX_idea_generic_political_advisor_asia_2"
+				small="GFX_idea_kijuro_shidehara"
 			}
 		}
 		advisor={
 			slot = political_advisor
-			idea_token = JAP_mitsumasa_yonai
+			idea_token = kijuro_shidehara
 			allowed = {
 				original_tag = JAP
 			}
 			traits = {
-				silent_workhorse 
+				democratic_reformer 
+			}
+			do_effect = {
+				NOT = {
+					has_government = democratic 
+				}
+			}
+			ai_will_do = {
+				factor = 0.000
 			}
 		}
 	}
+
 
 	JAP_hiroshi_oshima={
 		name=JAP_hiroshi_oshima
@@ -1636,6 +1602,44 @@ characters={
 		}
 	}
 
+	JAP_mitsumasa_yonai={
+		name=JAP_mitsumasa_yonai
+		portraits={
+			army={
+				small="GFX_idea_generic_political_advisor_asia_2"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = JAP_mitsumasa_yonai
+			allowed = {
+				original_tag = JAP
+			}
+			traits = {
+				silent_workhorse 
+			}
+		}
+	}
+
+	JAP_koichi_kido={ #追加
+		name=JAP_koichi_kido
+		portraits={
+			army={
+				small="GFX_idea_generic_political_advisor_asia_2"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = JAP_koichi_kido
+			allowed = {
+				original_tag = JAP
+			}
+			traits = {
+				silent_workhorse 
+			}
+		}
+	}
+
 	JAP_chiune_sugihara={
 		name=JAP_chiune_sugihara
 		portraits={
@@ -1651,6 +1655,28 @@ characters={
 			}
 			traits = { compassionate_gentleman }
 		}		
+	}
+
+	JAP_ichizo_kobayashi={ #追加
+		name=JAP_ichizo_kobayashi
+		portraits={
+			army={
+				small="GFX_idea_ichizo_kobayashi"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = JAP_ichizo_kobayashi
+			allowed = {
+				original_tag = JAP
+			}
+			traits = {
+				captain_of_industry 
+			}
+			ai_will_do = {
+				factor = 3.000
+			}
+		}
 	}
 
 	JAP_takuo_godo={
@@ -1675,5 +1701,66 @@ characters={
 		}
 	}
 
-	# Illusive Gentleman auto-generated
+	JAP_hideo_iwakuro={ #追加
+		name=JAP_hideo_iwakuro
+		portraits={
+			army={
+				small="GFX_idea_hideo_iwakuro"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = JAP_hideo_iwakuro
+			allowed = {
+				original_tag = JAP
+			}
+			traits = {
+				head_of_intelligence 
+			}
+			ai_will_do = {
+				factor = 3.000
+			}
+		}
+	}
+
+	JAP_teiichi_suzuki={ #追加
+		name=JAP_teiichi_suzuki
+		portraits={
+			army={
+				small="GFX_idea_teiichi_suzuki"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = JAP_teiichi_suzuki
+			allowed = {
+				original_tag = JAP
+			}
+			traits = { quartermaster_general }
+			ai_will_do = {
+				factor = 0.300
+			}
+		}
+	}
+
+	JAP_kaichiro_nezu={ #追加
+		name=JAP_kaichiro_nezu
+		portraits={
+			army={
+				small="GFX_idea_kaichiro_nezu"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = JAP_kaichiro_nezu
+			allowed = {
+				original_tag = JAP
+			}
+			traits = { railroad_enthusiast }
+			ai_will_do = {
+				factor = 0.300
+			}
+		}
+	}
+
 }
