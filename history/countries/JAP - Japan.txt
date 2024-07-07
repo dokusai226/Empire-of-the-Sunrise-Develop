@@ -404,6 +404,10 @@ recruit_character = JAP_sanzo_nosaka
 recruit_character = JAP_hiroshi_oshima
 recruit_character = JAP_kijuro_shidehara
 
+### 追加 ###
+recruit_character = JAP_sueo_ikeda
+recruit_character = JAP_takeichi_nishi
+recruit_character = JAP_seiichi_kume
 
 if = {
 	limit = {
