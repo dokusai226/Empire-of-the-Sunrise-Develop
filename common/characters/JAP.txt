@@ -1,5 +1,6 @@
 characters={
 	### 国家指導者 ###
+	##### 天皇 #####
 	JAP_emperor_hirohito={
 		name=JAP_emperor_hirohito
 		portraits={
@@ -15,6 +16,166 @@ characters={
 		}
 	}
 
+	##### 首相(史実) #####
+
+	JAP_keisuke_okada={
+		name=JAP_keisuke_okada
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	JAP_koki_hirota={
+		name=JAP_koki_hirota
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	JAP_senjuro_hayashi={
+		name=JAP_senjuro_hayashi
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	JAP_fumimaro_konoe={
+		name=JAP_fumimaro_konoe
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	JAP_kiichiro_hiranuma={
+		name=JAP_kiichiro_hiranuma
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	JAP_nobuyuki_abe={
+		name=JAP_nobuyuki_abe
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	JAP_mitsumasa_yonai={
+		name=JAP_mitsumasa_yonai
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	JAP_hideki_tojo={
+		name=JAP_hideki_tojo
+		portraits={
+			civilian={
+				large=
+			}
+			army={
+				small="GFX_idea_hideki_tojo"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+		advisor={
+			slot = army_chief
+			idea_token = hideki_tojo
+			allowed = {
+				original_tag = JAP
+			}
+			traits = {
+				army_chief_morale_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+
+	JAP_kuniaki_koiso={
+		name=JAP_hideki_tojo
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	JAP_kantaro_suzuki={
+		name=JAP_kantaro_suzuki
+		portraits={
+			civilian={
+				large=
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1989.1.1.1"
+			id=-1
+		}
+	}
+
+	##### 共産主義 #####
 	JAP_kyuichi_tokuda={
 		name=JAP_kyuichi_tokuda
 		portraits={
@@ -24,20 +185,6 @@ characters={
 		}
 		country_leader={
 			ideology=marxism
-			expire="1989.1.1.1"
-			id=-1
-		}
-	}
-
-	JAP_tetsu_katayama={
-		name=JAP_tetsu_katayama
-		portraits={
-			civilian={
-				large="GFX_Portrait_tetsu_katayama"
-			}
-		}
-		country_leader={
-			ideology=liberalism
 			expire="1989.1.1.1"
 			id=-1
 		}
@@ -1130,29 +1277,7 @@ characters={
 
 	# kanin kotohito
 	# hajime sugiyama
-
-	JAP_hideki_tojo={
-		name=JAP_hideki_tojo
-		portraits={
-			army={
-				small="GFX_idea_hideki_tojo"
-			}
-		}
-		advisor={
-			slot = army_chief
-			idea_token = hideki_tojo
-			allowed = {
-				original_tag = JAP
-			}
-			traits = {
-				army_chief_morale_2
-			}
-			cost = 100
-			ai_will_do = {
-				factor = 1.000
-			}
-		}
-	}
+	# hideki tojo
 
 	### NAVY CHIEFS ###
 
