@@ -1,5 +1,12 @@
 ﻿l_japanese:
-#JAP
+###JAP###
+#政治顧問
+ JAP_koichi_kido: "木戸幸一"
+ JAP_ichizo_kobayashi: "小林一三"
+ JAP_hideo_iwakuro: "岩畔豪雄"
+ JAP_teiichi_suzuki: "鈴木貞一"
+ JAP_kaichiro_nezu: "根津嘉一郎"
+#軍最高司令部
  JAP_sueo_ikeda: "池田末男"
  JAP_takeichi_nishi: "西竹一"
  JAP_seiichi_kume: "久米精一"
