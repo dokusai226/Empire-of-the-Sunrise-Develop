@@ -405,6 +405,13 @@ recruit_character = JAP_hiroshi_oshima
 recruit_character = JAP_kijuro_shidehara
 
 ### 追加 ###
+# 政治顧問
+recruit_character = JAP_koichi_kido
+recruit_character = JAP_ichizo_kobayashi
+recruit_character = JAP_hideo_iwakuro
+recruit_character = JAP_teiichi_suzuki
+recruit_character = JAP_kaichiro_nezu
+# 軍最高司令部
 recruit_character = JAP_sueo_ikeda
 recruit_character = JAP_takeichi_nishi
 recruit_character = JAP_seiichi_kume
